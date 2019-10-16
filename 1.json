@@ -1,0 +1,17 @@
+{
+	"默认":
+			[
+			{"epg":"TV1","title":"周星驰电影","url":"http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"},
+			{"epg":"TV2","title":"成龙电影","url":"http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"}
+			],
+	"分组A":
+			[
+			{"epg":"TV1","title":"CIBN电影","url":"http://101.89.132.179/live/tm-yg1dypd-1200k.m3u8"},
+			{"epg":"TV2","title":"喜剧影院","url":"http://101.89.132.179/live/tm-yg1xjyy-1200k.m3u8"}
+			],
+	"分组B":
+			[
+			{"epg":"TV1","title":"动作影院","url":"http://101.89.132.179/live/tm-yg1dzyy-1200k.m3u8"},
+			{"epg":"TV2","title":"精品影院","url":"http://101.89.132.179/live/tm-yg1jpyy-1200k.m3u8"}
+			]
+}
