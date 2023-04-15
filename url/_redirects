@@ -1,4 +1,4 @@
 /home301  /  301
 /home302  /  302
 /querystrings  /?query=string  301
-/url https://cdn.jsdelivr.net/gh/zqzq83/zqzq83.github.io@main/zj.txt   30
+/url/*  https://cdn.jsdelivr.net/gh/zqzq83/zqzq83.github.io@main/zj.txt  301
